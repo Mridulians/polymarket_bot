@@ -1,0 +1,21 @@
+# Polymarket Oracle Lag Bot — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Polymarket official CLOB API client
+py-clob-client>=0.18.0
+
+# Multi-exchange connector (Binance oracle + hedge)
+ccxt>=4.2.0
+
+# Polygon blockchain interaction
+web3>=6.0.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# HTTP requests (market scanner uses Gamma API)
+requests>=2.31.0
+
+# Data utilities
+pandas>=2.0.0
+numpy>=1.24.0

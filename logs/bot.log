@@ -1,0 +1,444 @@
+2026-03-20 01:08:27  INFO      ============================================================
+2026-03-20 01:08:27  INFO      🤖 POLYMARKET ORACLE LAG BOT — STARTING UP
+2026-03-20 01:08:27  INFO         Target: BTC/USDT | Strike: $95,000
+2026-03-20 01:08:27  INFO         Max daily trades: 0 | Max position: $500.0
+2026-03-20 01:08:27  INFO      ============================================================
+2026-03-20 01:08:27  INFO      Connecting to Polymarket CLOB...
+2026-03-20 01:22:34  INFO      ============================================================
+2026-03-20 01:22:34  INFO      🤖 POLYMARKET ORACLE LAG BOT — STARTING UP
+2026-03-20 01:22:34  INFO         Target: BTC/USDT | Strike: $95,000
+2026-03-20 01:22:34  INFO         Max daily trades: 0 | Max position: $500.0
+2026-03-20 01:22:34  INFO      ============================================================
+2026-03-20 01:22:34  INFO      Connecting to Polymarket CLOB...
+2026-03-20 01:22:35  INFO      ✅ Polymarket client authenticated.
+2026-03-20 01:22:35  INFO      Connecting to Binance...
+2026-03-20 01:22:35  INFO      ✅ Binance client ready.
+2026-03-20 01:22:35  INFO      🔍 Scanning for best expiring market...
+2026-03-20 01:22:39  WARNING   No matching markets found for BTC/USDT > $95,000 within 20 minutes.
+2026-03-20 01:22:39  INFO      No suitable market found. Retrying in 60s...
+2026-03-20 01:23:39  INFO      🔍 Scanning for best expiring market...
+2026-03-20 01:23:43  WARNING   No matching markets found for BTC/USDT > $95,000 within 20 minutes.
+2026-03-20 01:23:43  INFO      No suitable market found. Retrying in 60s...
+2026-03-20 01:24:43  INFO      🔍 Scanning for best expiring market...
+2026-03-20 01:24:47  WARNING   No matching markets found for BTC/USDT > $95,000 within 20 minutes.
+2026-03-20 01:24:47  INFO      No suitable market found. Retrying in 60s...
+2026-03-20 01:25:47  INFO      🔍 Scanning for best expiring market...
+2026-03-20 01:25:52  WARNING   No matching markets found for BTC/USDT > $95,000 within 20 minutes.
+2026-03-20 01:25:52  INFO      No suitable market found. Retrying in 60s...
+2026-03-20 01:26:52  INFO      🔍 Scanning for best expiring market...
+2026-03-20 01:26:57  WARNING   No matching markets found for BTC/USDT > $95,000 within 20 minutes.
+2026-03-20 01:26:57  INFO      No suitable market found. Retrying in 60s...
+2026-03-20 01:27:53  INFO      ⛔ Bot stopped manually.
+2026-03-20 01:27:53  INFO      No hedge to close.
+2026-03-20 01:28:00  INFO      ============================================================
+2026-03-20 01:28:00  INFO      🤖 POLYMARKET ORACLE LAG BOT — STARTING UP
+2026-03-20 01:28:00  INFO         Target: BTC/USDT | Strike: $70,000
+2026-03-20 01:28:00  INFO         Max daily trades: 0 | Max position: $500.0
+2026-03-20 01:28:00  INFO      ============================================================
+2026-03-20 01:28:00  INFO      Connecting to Polymarket CLOB...
+2026-03-20 01:28:04  INFO      ✅ Polymarket client authenticated.
+2026-03-20 01:28:04  INFO      Connecting to Binance...
+2026-03-20 01:28:04  INFO      ✅ Binance client ready.
+2026-03-20 01:28:04  INFO      🔍 Scanning for best expiring market...
+2026-03-20 01:28:08  WARNING   No matching markets found for BTC/USDT > $70,000 within 20 minutes.
+2026-03-20 01:28:08  INFO      No suitable market found. Retrying in 60s...
+2026-03-20 01:29:08  INFO      🔍 Scanning for best expiring market...
+2026-03-20 01:29:13  WARNING   No matching markets found for BTC/USDT > $70,000 within 20 minutes.
+2026-03-20 01:29:13  INFO      No suitable market found. Retrying in 60s...
+2026-03-20 01:30:13  INFO      🔍 Scanning for best expiring market...
+2026-03-20 01:30:17  WARNING   No matching markets found for BTC/USDT > $70,000 within 20 minutes.
+2026-03-20 01:30:17  INFO      No suitable market found. Retrying in 60s...
+2026-03-20 01:31:17  INFO      🔍 Scanning for best expiring market...
+2026-03-20 01:31:21  WARNING   No matching markets found for BTC/USDT > $70,000 within 20 minutes.
+2026-03-20 01:31:21  INFO      No suitable market found. Retrying in 60s...
+2026-03-20 01:32:21  INFO      🔍 Scanning for best expiring market...
+2026-03-20 01:32:25  WARNING   No matching markets found for BTC/USDT > $70,000 within 20 minutes.
+2026-03-20 01:32:25  INFO      No suitable market found. Retrying in 60s...
+2026-03-20 01:32:30  INFO      ⛔ Bot stopped manually.
+2026-03-20 01:32:30  INFO      No hedge to close.
+2026-03-20 01:53:38  INFO      ============================================================
+2026-03-20 01:53:38  INFO      🤖 POLYMARKET ORACLE LAG BOT — UP/DOWN EDITION
+2026-03-20 01:53:38  INFO         Asset: BTC/USDT | Mode: OBSERVATION
+2026-03-20 01:53:38  INFO         Momentum threshold: 0.15% | Entry max: 0.72
+2026-03-20 01:53:38  INFO         Max daily trades: 0 | Max position: $500.0
+2026-03-20 01:53:38  INFO      ============================================================
+2026-03-20 01:53:38  INFO      Connecting to Polymarket CLOB...
+2026-03-20 01:53:40  INFO      ✅ Polymarket client authenticated.
+2026-03-20 01:53:40  INFO      Connecting to Binance...
+2026-03-20 01:53:40  INFO      ✅ Binance client ready.
+2026-03-20 01:53:40  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 01:53:42  INFO      Fetched 500 active markets.
+2026-03-20 01:53:42  WARNING   No Up/Down markets found for BTC.
+2026-03-20 01:53:42  INFO      === Searching ALL markets for Up/Down type ===
+2026-03-20 01:53:42  INFO      === Total Up/Down markets found: 0 ===
+2026-03-20 01:53:42  INFO      No market found. Retrying in 30s...
+2026-03-20 01:54:12  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 01:54:14  INFO      Fetched 500 active markets.
+2026-03-20 01:54:14  WARNING   No Up/Down markets found for BTC.
+2026-03-20 01:54:14  INFO      === Searching ALL markets for Up/Down type ===
+2026-03-20 01:54:14  INFO      === Total Up/Down markets found: 0 ===
+2026-03-20 01:54:14  INFO      No market found. Retrying in 30s...
+2026-03-20 01:54:44  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 01:54:49  INFO      Fetched 500 active markets.
+2026-03-20 01:54:49  WARNING   No Up/Down markets found for BTC.
+2026-03-20 01:54:49  INFO      === Searching ALL markets for Up/Down type ===
+2026-03-20 01:54:49  INFO      === Total Up/Down markets found: 0 ===
+2026-03-20 01:54:49  INFO      No market found. Retrying in 30s...
+2026-03-20 01:55:19  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 01:55:21  INFO      Fetched 500 active markets.
+2026-03-20 01:55:21  WARNING   No Up/Down markets found for BTC.
+2026-03-20 01:55:21  INFO      === Searching ALL markets for Up/Down type ===
+2026-03-20 01:55:21  INFO      === Total Up/Down markets found: 0 ===
+2026-03-20 01:55:21  INFO      No market found. Retrying in 30s...
+2026-03-20 01:55:51  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 01:55:53  INFO      Fetched 500 active markets.
+2026-03-20 01:55:53  WARNING   No Up/Down markets found for BTC.
+2026-03-20 01:55:53  INFO      === Searching ALL markets for Up/Down type ===
+2026-03-20 01:55:53  INFO      === Total Up/Down markets found: 0 ===
+2026-03-20 01:55:53  INFO      No market found. Retrying in 30s...
+2026-03-20 01:56:23  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 01:56:25  INFO      Fetched 500 active markets.
+2026-03-20 01:56:25  WARNING   No Up/Down markets found for BTC.
+2026-03-20 01:56:25  INFO      === Searching ALL markets for Up/Down type ===
+2026-03-20 01:56:25  INFO      === Total Up/Down markets found: 0 ===
+2026-03-20 01:56:25  INFO      No market found. Retrying in 30s...
+2026-03-20 01:56:55  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 01:56:58  INFO      Fetched 500 active markets.
+2026-03-20 01:56:58  WARNING   No Up/Down markets found for BTC.
+2026-03-20 01:56:58  INFO      === Searching ALL markets for Up/Down type ===
+2026-03-20 01:56:58  INFO      === Total Up/Down markets found: 0 ===
+2026-03-20 01:56:58  INFO      No market found. Retrying in 30s...
+2026-03-20 01:57:28  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 01:57:30  INFO      Fetched 500 active markets.
+2026-03-20 01:57:30  WARNING   No Up/Down markets found for BTC.
+2026-03-20 01:57:30  INFO      === Searching ALL markets for Up/Down type ===
+2026-03-20 01:57:30  INFO      === Total Up/Down markets found: 0 ===
+2026-03-20 01:57:30  INFO      No market found. Retrying in 30s...
+2026-03-20 01:58:00  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 01:58:02  INFO      Fetched 500 active markets.
+2026-03-20 01:58:02  WARNING   No Up/Down markets found for BTC.
+2026-03-20 01:58:02  INFO      === Searching ALL markets for Up/Down type ===
+2026-03-20 01:58:02  INFO      === Total Up/Down markets found: 0 ===
+2026-03-20 01:58:02  INFO      No market found. Retrying in 30s...
+2026-03-20 01:58:32  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 01:58:34  INFO      Fetched 500 active markets.
+2026-03-20 01:58:34  WARNING   No Up/Down markets found for BTC.
+2026-03-20 01:58:34  INFO      === Searching ALL markets for Up/Down type ===
+2026-03-20 01:58:34  INFO      === Total Up/Down markets found: 0 ===
+2026-03-20 01:58:34  INFO      No market found. Retrying in 30s...
+2026-03-20 01:58:38  INFO      ⛔ Bot stopped by user.
+2026-03-20 01:58:38  INFO      No hedge to close.
+2026-03-20 02:00:51  INFO      ============================================================
+2026-03-20 02:00:51  INFO      🤖 POLYMARKET ORACLE LAG BOT — UP/DOWN EDITION
+2026-03-20 02:00:51  INFO         Asset: BTC/USDT | Mode: OBSERVATION
+2026-03-20 02:00:51  INFO         Momentum threshold: 0.15% | Entry max: 0.72
+2026-03-20 02:00:51  INFO         Max daily trades: 0 | Max position: $500.0
+2026-03-20 02:00:51  INFO      ============================================================
+2026-03-20 02:00:51  INFO      Connecting to Polymarket CLOB...
+2026-03-20 02:00:53  INFO      ✅ Polymarket client authenticated.
+2026-03-20 02:00:53  INFO      Connecting to Binance...
+2026-03-20 02:00:53  INFO      ✅ Binance client ready.
+2026-03-20 02:00:53  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 02:00:53  INFO      Fetching events from Polymarket API...
+2026-03-20 02:00:55  INFO      Fetched 200 active events.
+2026-03-20 02:00:55  WARNING   No Up/Down events found for BTC.
+2026-03-20 02:00:55  INFO      === ALL 200 EVENTS (first 20 shown) ===
+2026-03-20 02:00:55  INFO        slug='microstrategy-sell-any-bitcoin-in-2025' | title='MicroStrategy sells any Bitcoin by ___ ?' | ends=2025-12-31
+2026-03-20 02:00:55  INFO        slug='kraken-ipo-in-2025' | title='Kraken IPO by ___ ?' | ends=2025-12-31
+2026-03-20 02:00:55  INFO        slug='bitboy-convicted' | title='BitBoy convicted?' | ends=2026-03-31
+2026-03-20 02:00:55  INFO        slug='trump-eliminates-capital-gains-tax-on-crypto-in-2025' | title='Trump eliminates capital gains tax on crypto by __' | ends=2025-12-31
+2026-03-20 02:00:55  INFO        slug='pumpfun-airdop-by' | title='Pump.fun airdrop by ....? ' | ends=2025-12-31
+2026-03-20 02:00:55  INFO        slug='hyperliquid-airdop-by' | title='Hyperliquid airdrop by ....? ' | ends=N/A
+2026-03-20 02:00:55  INFO        slug='megaeth-market-cap-fdv-one-day-after-launch' | title='MegaETH market cap (FDV) one day after launch?' | ends=2026-07-01
+2026-03-20 02:00:55  INFO        slug='megaeth-airdrop-by' | title='MegaETH airdrop by...?' | ends=2026-06-30
+2026-03-20 02:00:55  INFO        slug='will-usdc-hit-50-of-usdt-market-cap-by-december-31' | title='Will USDC hit 50% of USDT market cap by ___?' | ends=2026-01-01
+2026-03-20 02:00:55  INFO        slug='will-usdt-market-cap-hit-by-december-31' | title='Will USDT market cap hit $200B by ___?' | ends=2026-01-01
+2026-03-20 02:00:55  INFO        slug='when-will-bitcoin-hit-150k' | title='When will Bitcoin hit $150k?' | ends=N/A
+2026-03-20 02:00:55  INFO        slug='will-el-salvador-hold-1b-of-btc-by-by' | title='Will El Salvador hold $1b+ of BTC by...? ' | ends=2027-01-01
+2026-03-20 02:00:55  INFO        slug='will-abstract-launch-a-token-in-2025' | title='Will Abstract launch a token by ___?' | ends=2026-01-01
+2026-03-20 02:00:55  INFO        slug='will-axiom-launch-a-token-in-2025' | title='Will Axiom launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:00:55  INFO        slug='will-unit-launch-a-token-in-2025' | title='Will Unit launch a token by ___ ?' | ends=2027-01-01
+2026-03-20 02:00:55  INFO        slug='will-base-launch-a-token-in-2025-341' | title='Will Base launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:00:55  INFO        slug='will-ostium-launch-a-token-in-2025' | title='Will Ostium launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:00:55  INFO        slug='will-felix-protocol-launch-a-token-in-2025' | title='Will Felix Protocol launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:00:55  INFO        slug='will-metamask-launch-a-token-in-2025' | title='Will MetaMask launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:00:55  INFO        slug='opensea-fdv-above-one-day-after-launch' | title='Opensea FDV above ___ one day after launch?' | ends=2027-01-01
+2026-03-20 02:00:55  INFO      === END EVENT LIST ===
+2026-03-20 02:00:55  INFO      No market found. Retrying in 30s...
+2026-03-20 02:01:25  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 02:01:25  INFO      Fetching events from Polymarket API...
+2026-03-20 02:01:27  INFO      Fetched 200 active events.
+2026-03-20 02:01:27  WARNING   No Up/Down events found for BTC.
+2026-03-20 02:01:27  INFO      === ALL 200 EVENTS (first 20 shown) ===
+2026-03-20 02:01:27  INFO        slug='microstrategy-sell-any-bitcoin-in-2025' | title='MicroStrategy sells any Bitcoin by ___ ?' | ends=2025-12-31
+2026-03-20 02:01:27  INFO        slug='kraken-ipo-in-2025' | title='Kraken IPO by ___ ?' | ends=2025-12-31
+2026-03-20 02:01:27  INFO        slug='bitboy-convicted' | title='BitBoy convicted?' | ends=2026-03-31
+2026-03-20 02:01:27  INFO        slug='trump-eliminates-capital-gains-tax-on-crypto-in-2025' | title='Trump eliminates capital gains tax on crypto by __' | ends=2025-12-31
+2026-03-20 02:01:27  INFO        slug='pumpfun-airdop-by' | title='Pump.fun airdrop by ....? ' | ends=2025-12-31
+2026-03-20 02:01:27  INFO        slug='hyperliquid-airdop-by' | title='Hyperliquid airdrop by ....? ' | ends=N/A
+2026-03-20 02:01:27  INFO        slug='megaeth-market-cap-fdv-one-day-after-launch' | title='MegaETH market cap (FDV) one day after launch?' | ends=2026-07-01
+2026-03-20 02:01:27  INFO        slug='megaeth-airdrop-by' | title='MegaETH airdrop by...?' | ends=2026-06-30
+2026-03-20 02:01:27  INFO        slug='will-usdc-hit-50-of-usdt-market-cap-by-december-31' | title='Will USDC hit 50% of USDT market cap by ___?' | ends=2026-01-01
+2026-03-20 02:01:27  INFO        slug='will-usdt-market-cap-hit-by-december-31' | title='Will USDT market cap hit $200B by ___?' | ends=2026-01-01
+2026-03-20 02:01:27  INFO        slug='when-will-bitcoin-hit-150k' | title='When will Bitcoin hit $150k?' | ends=N/A
+2026-03-20 02:01:27  INFO        slug='will-el-salvador-hold-1b-of-btc-by-by' | title='Will El Salvador hold $1b+ of BTC by...? ' | ends=2027-01-01
+2026-03-20 02:01:27  INFO        slug='will-abstract-launch-a-token-in-2025' | title='Will Abstract launch a token by ___?' | ends=2026-01-01
+2026-03-20 02:01:27  INFO        slug='will-axiom-launch-a-token-in-2025' | title='Will Axiom launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:01:27  INFO        slug='will-unit-launch-a-token-in-2025' | title='Will Unit launch a token by ___ ?' | ends=2027-01-01
+2026-03-20 02:01:27  INFO        slug='will-base-launch-a-token-in-2025-341' | title='Will Base launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:01:27  INFO        slug='will-ostium-launch-a-token-in-2025' | title='Will Ostium launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:01:27  INFO        slug='will-felix-protocol-launch-a-token-in-2025' | title='Will Felix Protocol launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:01:28  INFO        slug='will-metamask-launch-a-token-in-2025' | title='Will MetaMask launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:01:28  INFO        slug='opensea-fdv-above-one-day-after-launch' | title='Opensea FDV above ___ one day after launch?' | ends=2027-01-01
+2026-03-20 02:01:28  INFO      === END EVENT LIST ===
+2026-03-20 02:01:28  INFO      No market found. Retrying in 30s...
+2026-03-20 02:01:58  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 02:01:58  INFO      Fetching events from Polymarket API...
+2026-03-20 02:02:00  INFO      Fetched 200 active events.
+2026-03-20 02:02:00  WARNING   No Up/Down events found for BTC.
+2026-03-20 02:02:00  INFO      === ALL 200 EVENTS (first 20 shown) ===
+2026-03-20 02:02:00  INFO        slug='microstrategy-sell-any-bitcoin-in-2025' | title='MicroStrategy sells any Bitcoin by ___ ?' | ends=2025-12-31
+2026-03-20 02:02:00  INFO        slug='kraken-ipo-in-2025' | title='Kraken IPO by ___ ?' | ends=2025-12-31
+2026-03-20 02:02:00  INFO        slug='bitboy-convicted' | title='BitBoy convicted?' | ends=2026-03-31
+2026-03-20 02:02:00  INFO        slug='trump-eliminates-capital-gains-tax-on-crypto-in-2025' | title='Trump eliminates capital gains tax on crypto by __' | ends=2025-12-31
+2026-03-20 02:02:00  INFO        slug='pumpfun-airdop-by' | title='Pump.fun airdrop by ....? ' | ends=2025-12-31
+2026-03-20 02:02:00  INFO        slug='hyperliquid-airdop-by' | title='Hyperliquid airdrop by ....? ' | ends=N/A
+2026-03-20 02:02:00  INFO        slug='megaeth-market-cap-fdv-one-day-after-launch' | title='MegaETH market cap (FDV) one day after launch?' | ends=2026-07-01
+2026-03-20 02:02:00  INFO        slug='megaeth-airdrop-by' | title='MegaETH airdrop by...?' | ends=2026-06-30
+2026-03-20 02:02:00  INFO        slug='will-usdc-hit-50-of-usdt-market-cap-by-december-31' | title='Will USDC hit 50% of USDT market cap by ___?' | ends=2026-01-01
+2026-03-20 02:02:00  INFO        slug='will-usdt-market-cap-hit-by-december-31' | title='Will USDT market cap hit $200B by ___?' | ends=2026-01-01
+2026-03-20 02:02:00  INFO        slug='when-will-bitcoin-hit-150k' | title='When will Bitcoin hit $150k?' | ends=N/A
+2026-03-20 02:02:00  INFO        slug='will-el-salvador-hold-1b-of-btc-by-by' | title='Will El Salvador hold $1b+ of BTC by...? ' | ends=2027-01-01
+2026-03-20 02:02:00  INFO        slug='will-abstract-launch-a-token-in-2025' | title='Will Abstract launch a token by ___?' | ends=2026-01-01
+2026-03-20 02:02:00  INFO        slug='will-axiom-launch-a-token-in-2025' | title='Will Axiom launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:02:00  INFO        slug='will-unit-launch-a-token-in-2025' | title='Will Unit launch a token by ___ ?' | ends=2027-01-01
+2026-03-20 02:02:00  INFO        slug='will-base-launch-a-token-in-2025-341' | title='Will Base launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:02:00  INFO        slug='will-ostium-launch-a-token-in-2025' | title='Will Ostium launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:02:00  INFO        slug='will-felix-protocol-launch-a-token-in-2025' | title='Will Felix Protocol launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:02:00  INFO        slug='will-metamask-launch-a-token-in-2025' | title='Will MetaMask launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:02:00  INFO        slug='opensea-fdv-above-one-day-after-launch' | title='Opensea FDV above ___ one day after launch?' | ends=2027-01-01
+2026-03-20 02:02:00  INFO      === END EVENT LIST ===
+2026-03-20 02:02:00  INFO      No market found. Retrying in 30s...
+2026-03-20 02:02:30  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 02:02:30  INFO      Fetching events from Polymarket API...
+2026-03-20 02:02:32  INFO      Fetched 200 active events.
+2026-03-20 02:02:32  WARNING   No Up/Down events found for BTC.
+2026-03-20 02:02:32  INFO      === ALL 200 EVENTS (first 20 shown) ===
+2026-03-20 02:02:32  INFO        slug='microstrategy-sell-any-bitcoin-in-2025' | title='MicroStrategy sells any Bitcoin by ___ ?' | ends=2025-12-31
+2026-03-20 02:02:32  INFO        slug='kraken-ipo-in-2025' | title='Kraken IPO by ___ ?' | ends=2025-12-31
+2026-03-20 02:02:32  INFO        slug='bitboy-convicted' | title='BitBoy convicted?' | ends=2026-03-31
+2026-03-20 02:02:32  INFO        slug='trump-eliminates-capital-gains-tax-on-crypto-in-2025' | title='Trump eliminates capital gains tax on crypto by __' | ends=2025-12-31
+2026-03-20 02:02:32  INFO        slug='pumpfun-airdop-by' | title='Pump.fun airdrop by ....? ' | ends=2025-12-31
+2026-03-20 02:02:32  INFO        slug='hyperliquid-airdop-by' | title='Hyperliquid airdrop by ....? ' | ends=N/A
+2026-03-20 02:02:32  INFO        slug='megaeth-market-cap-fdv-one-day-after-launch' | title='MegaETH market cap (FDV) one day after launch?' | ends=2026-07-01
+2026-03-20 02:02:32  INFO        slug='megaeth-airdrop-by' | title='MegaETH airdrop by...?' | ends=2026-06-30
+2026-03-20 02:02:32  INFO        slug='will-usdc-hit-50-of-usdt-market-cap-by-december-31' | title='Will USDC hit 50% of USDT market cap by ___?' | ends=2026-01-01
+2026-03-20 02:02:32  INFO        slug='will-usdt-market-cap-hit-by-december-31' | title='Will USDT market cap hit $200B by ___?' | ends=2026-01-01
+2026-03-20 02:02:32  INFO        slug='when-will-bitcoin-hit-150k' | title='When will Bitcoin hit $150k?' | ends=N/A
+2026-03-20 02:02:32  INFO        slug='will-el-salvador-hold-1b-of-btc-by-by' | title='Will El Salvador hold $1b+ of BTC by...? ' | ends=2027-01-01
+2026-03-20 02:02:32  INFO        slug='will-abstract-launch-a-token-in-2025' | title='Will Abstract launch a token by ___?' | ends=2026-01-01
+2026-03-20 02:02:32  INFO        slug='will-axiom-launch-a-token-in-2025' | title='Will Axiom launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:02:32  INFO        slug='will-unit-launch-a-token-in-2025' | title='Will Unit launch a token by ___ ?' | ends=2027-01-01
+2026-03-20 02:02:32  INFO        slug='will-base-launch-a-token-in-2025-341' | title='Will Base launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:02:32  INFO        slug='will-ostium-launch-a-token-in-2025' | title='Will Ostium launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:02:32  INFO        slug='will-felix-protocol-launch-a-token-in-2025' | title='Will Felix Protocol launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:02:32  INFO        slug='will-metamask-launch-a-token-in-2025' | title='Will MetaMask launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:02:32  INFO        slug='opensea-fdv-above-one-day-after-launch' | title='Opensea FDV above ___ one day after launch?' | ends=2027-01-01
+2026-03-20 02:02:32  INFO      === END EVENT LIST ===
+2026-03-20 02:02:32  INFO      No market found. Retrying in 30s...
+2026-03-20 02:03:02  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 02:03:02  INFO      Fetching events from Polymarket API...
+2026-03-20 02:03:05  INFO      Fetched 200 active events.
+2026-03-20 02:03:05  WARNING   No Up/Down events found for BTC.
+2026-03-20 02:03:05  INFO      === ALL 200 EVENTS (first 20 shown) ===
+2026-03-20 02:03:05  INFO        slug='microstrategy-sell-any-bitcoin-in-2025' | title='MicroStrategy sells any Bitcoin by ___ ?' | ends=2025-12-31
+2026-03-20 02:03:05  INFO        slug='kraken-ipo-in-2025' | title='Kraken IPO by ___ ?' | ends=2025-12-31
+2026-03-20 02:03:05  INFO        slug='bitboy-convicted' | title='BitBoy convicted?' | ends=2026-03-31
+2026-03-20 02:03:05  INFO        slug='trump-eliminates-capital-gains-tax-on-crypto-in-2025' | title='Trump eliminates capital gains tax on crypto by __' | ends=2025-12-31
+2026-03-20 02:03:05  INFO        slug='pumpfun-airdop-by' | title='Pump.fun airdrop by ....? ' | ends=2025-12-31
+2026-03-20 02:03:05  INFO        slug='hyperliquid-airdop-by' | title='Hyperliquid airdrop by ....? ' | ends=N/A
+2026-03-20 02:03:05  INFO        slug='megaeth-market-cap-fdv-one-day-after-launch' | title='MegaETH market cap (FDV) one day after launch?' | ends=2026-07-01
+2026-03-20 02:03:05  INFO        slug='megaeth-airdrop-by' | title='MegaETH airdrop by...?' | ends=2026-06-30
+2026-03-20 02:03:05  INFO        slug='will-usdc-hit-50-of-usdt-market-cap-by-december-31' | title='Will USDC hit 50% of USDT market cap by ___?' | ends=2026-01-01
+2026-03-20 02:03:05  INFO        slug='will-usdt-market-cap-hit-by-december-31' | title='Will USDT market cap hit $200B by ___?' | ends=2026-01-01
+2026-03-20 02:03:05  INFO        slug='when-will-bitcoin-hit-150k' | title='When will Bitcoin hit $150k?' | ends=N/A
+2026-03-20 02:03:05  INFO        slug='will-el-salvador-hold-1b-of-btc-by-by' | title='Will El Salvador hold $1b+ of BTC by...? ' | ends=2027-01-01
+2026-03-20 02:03:05  INFO        slug='will-abstract-launch-a-token-in-2025' | title='Will Abstract launch a token by ___?' | ends=2026-01-01
+2026-03-20 02:03:05  INFO        slug='will-axiom-launch-a-token-in-2025' | title='Will Axiom launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:03:05  INFO        slug='will-unit-launch-a-token-in-2025' | title='Will Unit launch a token by ___ ?' | ends=2027-01-01
+2026-03-20 02:03:05  INFO        slug='will-base-launch-a-token-in-2025-341' | title='Will Base launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:03:05  INFO        slug='will-ostium-launch-a-token-in-2025' | title='Will Ostium launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:03:05  INFO        slug='will-felix-protocol-launch-a-token-in-2025' | title='Will Felix Protocol launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:03:05  INFO        slug='will-metamask-launch-a-token-in-2025' | title='Will MetaMask launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:03:05  INFO        slug='opensea-fdv-above-one-day-after-launch' | title='Opensea FDV above ___ one day after launch?' | ends=2027-01-01
+2026-03-20 02:03:05  INFO      === END EVENT LIST ===
+2026-03-20 02:03:05  INFO      No market found. Retrying in 30s...
+2026-03-20 02:03:35  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 02:03:35  INFO      Fetching events from Polymarket API...
+2026-03-20 02:03:37  INFO      Fetched 200 active events.
+2026-03-20 02:03:37  WARNING   No Up/Down events found for BTC.
+2026-03-20 02:03:37  INFO      === ALL 200 EVENTS (first 20 shown) ===
+2026-03-20 02:03:37  INFO        slug='microstrategy-sell-any-bitcoin-in-2025' | title='MicroStrategy sells any Bitcoin by ___ ?' | ends=2025-12-31
+2026-03-20 02:03:37  INFO        slug='kraken-ipo-in-2025' | title='Kraken IPO by ___ ?' | ends=2025-12-31
+2026-03-20 02:03:37  INFO        slug='bitboy-convicted' | title='BitBoy convicted?' | ends=2026-03-31
+2026-03-20 02:03:37  INFO        slug='trump-eliminates-capital-gains-tax-on-crypto-in-2025' | title='Trump eliminates capital gains tax on crypto by __' | ends=2025-12-31
+2026-03-20 02:03:37  INFO        slug='pumpfun-airdop-by' | title='Pump.fun airdrop by ....? ' | ends=2025-12-31
+2026-03-20 02:03:37  INFO        slug='hyperliquid-airdop-by' | title='Hyperliquid airdrop by ....? ' | ends=N/A
+2026-03-20 02:03:37  INFO        slug='megaeth-market-cap-fdv-one-day-after-launch' | title='MegaETH market cap (FDV) one day after launch?' | ends=2026-07-01
+2026-03-20 02:03:37  INFO        slug='megaeth-airdrop-by' | title='MegaETH airdrop by...?' | ends=2026-06-30
+2026-03-20 02:03:37  INFO        slug='will-usdc-hit-50-of-usdt-market-cap-by-december-31' | title='Will USDC hit 50% of USDT market cap by ___?' | ends=2026-01-01
+2026-03-20 02:03:37  INFO        slug='will-usdt-market-cap-hit-by-december-31' | title='Will USDT market cap hit $200B by ___?' | ends=2026-01-01
+2026-03-20 02:03:37  INFO        slug='when-will-bitcoin-hit-150k' | title='When will Bitcoin hit $150k?' | ends=N/A
+2026-03-20 02:03:37  INFO        slug='will-el-salvador-hold-1b-of-btc-by-by' | title='Will El Salvador hold $1b+ of BTC by...? ' | ends=2027-01-01
+2026-03-20 02:03:37  INFO        slug='will-abstract-launch-a-token-in-2025' | title='Will Abstract launch a token by ___?' | ends=2026-01-01
+2026-03-20 02:03:37  INFO        slug='will-axiom-launch-a-token-in-2025' | title='Will Axiom launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:03:37  INFO        slug='will-unit-launch-a-token-in-2025' | title='Will Unit launch a token by ___ ?' | ends=2027-01-01
+2026-03-20 02:03:37  INFO        slug='will-base-launch-a-token-in-2025-341' | title='Will Base launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:03:37  INFO        slug='will-ostium-launch-a-token-in-2025' | title='Will Ostium launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:03:37  INFO        slug='will-felix-protocol-launch-a-token-in-2025' | title='Will Felix Protocol launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:03:37  INFO        slug='will-metamask-launch-a-token-in-2025' | title='Will MetaMask launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:03:37  INFO        slug='opensea-fdv-above-one-day-after-launch' | title='Opensea FDV above ___ one day after launch?' | ends=2027-01-01
+2026-03-20 02:03:37  INFO      === END EVENT LIST ===
+2026-03-20 02:03:37  INFO      No market found. Retrying in 30s...
+2026-03-20 02:04:07  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 02:04:07  INFO      Fetching events from Polymarket API...
+2026-03-20 02:04:12  INFO      Fetched 200 active events.
+2026-03-20 02:04:12  WARNING   No Up/Down events found for BTC.
+2026-03-20 02:04:12  INFO      === ALL 200 EVENTS (first 20 shown) ===
+2026-03-20 02:04:12  INFO        slug='microstrategy-sell-any-bitcoin-in-2025' | title='MicroStrategy sells any Bitcoin by ___ ?' | ends=2025-12-31
+2026-03-20 02:04:12  INFO        slug='kraken-ipo-in-2025' | title='Kraken IPO by ___ ?' | ends=2025-12-31
+2026-03-20 02:04:12  INFO        slug='bitboy-convicted' | title='BitBoy convicted?' | ends=2026-03-31
+2026-03-20 02:04:12  INFO        slug='trump-eliminates-capital-gains-tax-on-crypto-in-2025' | title='Trump eliminates capital gains tax on crypto by __' | ends=2025-12-31
+2026-03-20 02:04:12  INFO        slug='pumpfun-airdop-by' | title='Pump.fun airdrop by ....? ' | ends=2025-12-31
+2026-03-20 02:04:12  INFO        slug='hyperliquid-airdop-by' | title='Hyperliquid airdrop by ....? ' | ends=N/A
+2026-03-20 02:04:12  INFO        slug='megaeth-market-cap-fdv-one-day-after-launch' | title='MegaETH market cap (FDV) one day after launch?' | ends=2026-07-01
+2026-03-20 02:04:12  INFO        slug='megaeth-airdrop-by' | title='MegaETH airdrop by...?' | ends=2026-06-30
+2026-03-20 02:04:12  INFO        slug='will-usdc-hit-50-of-usdt-market-cap-by-december-31' | title='Will USDC hit 50% of USDT market cap by ___?' | ends=2026-01-01
+2026-03-20 02:04:12  INFO        slug='will-usdt-market-cap-hit-by-december-31' | title='Will USDT market cap hit $200B by ___?' | ends=2026-01-01
+2026-03-20 02:04:12  INFO        slug='when-will-bitcoin-hit-150k' | title='When will Bitcoin hit $150k?' | ends=N/A
+2026-03-20 02:04:12  INFO        slug='will-el-salvador-hold-1b-of-btc-by-by' | title='Will El Salvador hold $1b+ of BTC by...? ' | ends=2027-01-01
+2026-03-20 02:04:12  INFO        slug='will-abstract-launch-a-token-in-2025' | title='Will Abstract launch a token by ___?' | ends=2026-01-01
+2026-03-20 02:04:12  INFO        slug='will-axiom-launch-a-token-in-2025' | title='Will Axiom launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:04:12  INFO        slug='will-unit-launch-a-token-in-2025' | title='Will Unit launch a token by ___ ?' | ends=2027-01-01
+2026-03-20 02:04:12  INFO        slug='will-base-launch-a-token-in-2025-341' | title='Will Base launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:04:12  INFO        slug='will-ostium-launch-a-token-in-2025' | title='Will Ostium launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:04:12  INFO        slug='will-felix-protocol-launch-a-token-in-2025' | title='Will Felix Protocol launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:04:12  INFO        slug='will-metamask-launch-a-token-in-2025' | title='Will MetaMask launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:04:13  INFO        slug='opensea-fdv-above-one-day-after-launch' | title='Opensea FDV above ___ one day after launch?' | ends=2027-01-01
+2026-03-20 02:04:13  INFO      === END EVENT LIST ===
+2026-03-20 02:04:13  INFO      No market found. Retrying in 30s...
+2026-03-20 02:04:43  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 02:04:43  INFO      Fetching events from Polymarket API...
+2026-03-20 02:04:48  INFO      Fetched 200 active events.
+2026-03-20 02:04:48  WARNING   No Up/Down events found for BTC.
+2026-03-20 02:04:48  INFO      === ALL 200 EVENTS (first 20 shown) ===
+2026-03-20 02:04:48  INFO        slug='microstrategy-sell-any-bitcoin-in-2025' | title='MicroStrategy sells any Bitcoin by ___ ?' | ends=2025-12-31
+2026-03-20 02:04:48  INFO        slug='kraken-ipo-in-2025' | title='Kraken IPO by ___ ?' | ends=2025-12-31
+2026-03-20 02:04:48  INFO        slug='bitboy-convicted' | title='BitBoy convicted?' | ends=2026-03-31
+2026-03-20 02:04:48  INFO        slug='trump-eliminates-capital-gains-tax-on-crypto-in-2025' | title='Trump eliminates capital gains tax on crypto by __' | ends=2025-12-31
+2026-03-20 02:04:48  INFO        slug='pumpfun-airdop-by' | title='Pump.fun airdrop by ....? ' | ends=2025-12-31
+2026-03-20 02:04:48  INFO        slug='hyperliquid-airdop-by' | title='Hyperliquid airdrop by ....? ' | ends=N/A
+2026-03-20 02:04:48  INFO        slug='megaeth-market-cap-fdv-one-day-after-launch' | title='MegaETH market cap (FDV) one day after launch?' | ends=2026-07-01
+2026-03-20 02:04:48  INFO        slug='megaeth-airdrop-by' | title='MegaETH airdrop by...?' | ends=2026-06-30
+2026-03-20 02:04:48  INFO        slug='will-usdc-hit-50-of-usdt-market-cap-by-december-31' | title='Will USDC hit 50% of USDT market cap by ___?' | ends=2026-01-01
+2026-03-20 02:04:48  INFO        slug='will-usdt-market-cap-hit-by-december-31' | title='Will USDT market cap hit $200B by ___?' | ends=2026-01-01
+2026-03-20 02:04:48  INFO        slug='when-will-bitcoin-hit-150k' | title='When will Bitcoin hit $150k?' | ends=N/A
+2026-03-20 02:04:48  INFO        slug='will-el-salvador-hold-1b-of-btc-by-by' | title='Will El Salvador hold $1b+ of BTC by...? ' | ends=2027-01-01
+2026-03-20 02:04:48  INFO        slug='will-abstract-launch-a-token-in-2025' | title='Will Abstract launch a token by ___?' | ends=2026-01-01
+2026-03-20 02:04:48  INFO        slug='will-axiom-launch-a-token-in-2025' | title='Will Axiom launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:04:48  INFO        slug='will-unit-launch-a-token-in-2025' | title='Will Unit launch a token by ___ ?' | ends=2027-01-01
+2026-03-20 02:04:48  INFO        slug='will-base-launch-a-token-in-2025-341' | title='Will Base launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:04:48  INFO        slug='will-ostium-launch-a-token-in-2025' | title='Will Ostium launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:04:48  INFO        slug='will-felix-protocol-launch-a-token-in-2025' | title='Will Felix Protocol launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:04:48  INFO        slug='will-metamask-launch-a-token-in-2025' | title='Will MetaMask launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:04:48  INFO        slug='opensea-fdv-above-one-day-after-launch' | title='Opensea FDV above ___ one day after launch?' | ends=2027-01-01
+2026-03-20 02:04:48  INFO      === END EVENT LIST ===
+2026-03-20 02:04:48  INFO      No market found. Retrying in 30s...
+2026-03-20 02:05:18  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 02:05:18  INFO      Fetching events from Polymarket API...
+2026-03-20 02:05:24  INFO      Fetched 200 active events.
+2026-03-20 02:05:24  WARNING   No Up/Down events found for BTC.
+2026-03-20 02:05:24  INFO      === ALL 200 EVENTS (first 20 shown) ===
+2026-03-20 02:05:24  INFO        slug='microstrategy-sell-any-bitcoin-in-2025' | title='MicroStrategy sells any Bitcoin by ___ ?' | ends=2025-12-31
+2026-03-20 02:05:24  INFO        slug='kraken-ipo-in-2025' | title='Kraken IPO by ___ ?' | ends=2025-12-31
+2026-03-20 02:05:24  INFO        slug='bitboy-convicted' | title='BitBoy convicted?' | ends=2026-03-31
+2026-03-20 02:05:24  INFO        slug='trump-eliminates-capital-gains-tax-on-crypto-in-2025' | title='Trump eliminates capital gains tax on crypto by __' | ends=2025-12-31
+2026-03-20 02:05:24  INFO        slug='pumpfun-airdop-by' | title='Pump.fun airdrop by ....? ' | ends=2025-12-31
+2026-03-20 02:05:24  INFO        slug='hyperliquid-airdop-by' | title='Hyperliquid airdrop by ....? ' | ends=N/A
+2026-03-20 02:05:24  INFO        slug='megaeth-market-cap-fdv-one-day-after-launch' | title='MegaETH market cap (FDV) one day after launch?' | ends=2026-07-01
+2026-03-20 02:05:24  INFO        slug='megaeth-airdrop-by' | title='MegaETH airdrop by...?' | ends=2026-06-30
+2026-03-20 02:05:24  INFO        slug='will-usdc-hit-50-of-usdt-market-cap-by-december-31' | title='Will USDC hit 50% of USDT market cap by ___?' | ends=2026-01-01
+2026-03-20 02:05:24  INFO        slug='will-usdt-market-cap-hit-by-december-31' | title='Will USDT market cap hit $200B by ___?' | ends=2026-01-01
+2026-03-20 02:05:24  INFO        slug='when-will-bitcoin-hit-150k' | title='When will Bitcoin hit $150k?' | ends=N/A
+2026-03-20 02:05:24  INFO        slug='will-el-salvador-hold-1b-of-btc-by-by' | title='Will El Salvador hold $1b+ of BTC by...? ' | ends=2027-01-01
+2026-03-20 02:05:24  INFO        slug='will-abstract-launch-a-token-in-2025' | title='Will Abstract launch a token by ___?' | ends=2026-01-01
+2026-03-20 02:05:24  INFO        slug='will-axiom-launch-a-token-in-2025' | title='Will Axiom launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:05:24  INFO        slug='will-unit-launch-a-token-in-2025' | title='Will Unit launch a token by ___ ?' | ends=2027-01-01
+2026-03-20 02:05:24  INFO        slug='will-base-launch-a-token-in-2025-341' | title='Will Base launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:05:24  INFO        slug='will-ostium-launch-a-token-in-2025' | title='Will Ostium launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:05:24  INFO        slug='will-felix-protocol-launch-a-token-in-2025' | title='Will Felix Protocol launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:05:24  INFO        slug='will-metamask-launch-a-token-in-2025' | title='Will MetaMask launch a token by ___ ?' | ends=2026-01-01
+2026-03-20 02:05:24  INFO        slug='opensea-fdv-above-one-day-after-launch' | title='Opensea FDV above ___ one day after launch?' | ends=2027-01-01
+2026-03-20 02:05:24  INFO      === END EVENT LIST ===
+2026-03-20 02:05:24  INFO      No market found. Retrying in 30s...
+2026-03-20 02:05:46  INFO      ⛔ Bot stopped by user.
+2026-03-20 02:05:46  INFO      No hedge to close.
+2026-03-20 02:06:56  INFO      ============================================================
+2026-03-20 02:06:56  INFO      🤖 POLYMARKET ORACLE LAG BOT — UP/DOWN EDITION
+2026-03-20 02:06:56  INFO         Asset: BTC/USDT | Mode: OBSERVATION
+2026-03-20 02:06:56  INFO         Momentum threshold: 0.15% | Entry max: 0.72
+2026-03-20 02:06:56  INFO         Max daily trades: 0 | Max position: $500.0
+2026-03-20 02:06:56  INFO      ============================================================
+2026-03-20 02:06:56  INFO      Connecting to Polymarket CLOB...
+2026-03-20 02:07:00  INFO      ✅ Polymarket client authenticated.
+2026-03-20 02:07:00  INFO      Connecting to Binance...
+2026-03-20 02:07:00  INFO      ✅ Binance client ready.
+2026-03-20 02:07:00  INFO      🔍 Scanning for best Up/Down market...
+2026-03-20 02:07:00  INFO      Trying 6 deterministic slugs for BTC...
+2026-03-20 02:07:02  INFO        ✅ Found: btc-updown-15m-1773952200
+2026-03-20 02:07:02  INFO      🎯 Market ready: 'Bitcoin Up or Down - March 19, 4:30PM-4:45PM ET' | Timeframe: 15min | Expires in: 8m 0s
+2026-03-20 02:07:02  INFO      🎯 Targeting: Bitcoin Up or Down - March 19, 4:30PM-4:45PM ET
+2026-03-20 02:07:23  INFO      BTC=$70,424.50 | Momentum=+0.000% | Up=0.990 Down=0.990 | Expires in 457s
+2026-03-20 02:07:23  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:07:37  INFO      BTC=$70,436.90 | Momentum=+0.018% | Up=0.990 Down=0.990 | Expires in 443s
+2026-03-20 02:07:37  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:07:50  INFO      BTC=$70,444.80 | Momentum=+0.029% | Up=0.990 Down=0.990 | Expires in 430s
+2026-03-20 02:07:50  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:08:04  INFO      BTC=$70,454.20 | Momentum=+0.042% | Up=0.990 Down=0.990 | Expires in 416s
+2026-03-20 02:08:04  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:08:17  INFO      BTC=$70,452.40 | Momentum=+0.040% | Up=0.990 Down=0.990 | Expires in 403s
+2026-03-20 02:08:17  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:08:31  INFO      BTC=$70,486.00 | Momentum=+0.070% | Up=0.990 Down=0.990 | Expires in 389s
+2026-03-20 02:08:31  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:08:44  INFO      BTC=$70,500.00 | Momentum=+0.078% | Up=0.990 Down=0.990 | Expires in 376s
+2026-03-20 02:08:44  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:08:59  INFO      BTC=$70,490.60 | Momentum=+0.052% | Up=0.990 Down=0.990 | Expires in 361s
+2026-03-20 02:08:59  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:09:13  INFO      BTC=$70,482.20 | Momentum=+0.042% | Up=0.990 Down=0.990 | Expires in 347s
+2026-03-20 02:09:13  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:09:27  INFO      BTC=$70,482.20 | Momentum=-0.005% | Up=0.990 Down=0.990 | Expires in 333s
+2026-03-20 02:09:27  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:09:39  INFO      BTC=$70,482.30 | Momentum=-0.025% | Up=0.990 Down=0.990 | Expires in 321s
+2026-03-20 02:09:39  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:09:52  INFO      BTC=$70,521.90 | Momentum=+0.044% | Up=0.990 Down=0.990 | Expires in 308s
+2026-03-20 02:09:52  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:10:07  INFO      BTC=$70,522.00 | Momentum=+0.057% | Up=0.999 Down=0.999 | Expires in 293s
+2026-03-20 02:10:07  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:10:21  INFO      BTC=$70,586.20 | Momentum=+0.148% | Up=0.999 Down=0.999 | Expires in 279s
+2026-03-20 02:10:21  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:10:33  INFO      BTC=$70,562.10 | Momentum=+0.113% | Up=0.999 Down=0.999 | Expires in 267s
+2026-03-20 02:10:33  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:10:45  INFO      BTC=$70,565.90 | Momentum=+0.062% | Up=0.999 Down=0.999 | Expires in 255s
+2026-03-20 02:10:45  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:10:57  INFO      BTC=$70,576.10 | Momentum=+0.077% | Up=0.999 Down=0.999 | Expires in 243s
+2026-03-20 02:10:57  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:11:09  INFO      BTC=$70,558.80 | Momentum=-0.039% | Up=0.998 Down=0.999 | Expires in 231s
+2026-03-20 02:11:09  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:11:22  INFO      BTC=$70,549.60 | Momentum=-0.018% | Up=0.999 Down=0.999 | Expires in 218s
+2026-03-20 02:11:22  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:11:34  INFO      BTC=$70,549.30 | Momentum=-0.024% | Up=0.999 Down=0.999 | Expires in 206s
+2026-03-20 02:11:34  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:11:46  INFO      BTC=$70,549.30 | Momentum=-0.038% | Up=0.999 Down=0.999 | Expires in 194s
+2026-03-20 02:11:46  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-20 02:11:54  INFO      ⛔ Bot stopped by user.
+2026-03-20 02:11:54  INFO      No hedge to close.
