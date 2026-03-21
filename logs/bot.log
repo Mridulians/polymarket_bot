@@ -442,3 +442,22 @@
 2026-03-20 02:11:46  WARNING   Daily trade limit reached (0). No more trades today.
 2026-03-20 02:11:54  INFO      ⛔ Bot stopped by user.
 2026-03-20 02:11:54  INFO      No hedge to close.
+2026-03-21 23:29:39  INFO      ============================================================
+2026-03-21 23:29:39  INFO      🤖 POLYMARKET ORACLE LAG BOT — UP/DOWN EDITION
+2026-03-21 23:29:39  INFO         Asset: BTC/USDT | Mode: OBSERVATION
+2026-03-21 23:29:39  INFO         Momentum threshold: 0.15% | Entry max: 0.72
+2026-03-21 23:29:39  INFO         Max daily trades: 0 | Max position: $500.0
+2026-03-21 23:29:39  INFO      ============================================================
+2026-03-21 23:29:39  INFO      Connecting to Polymarket CLOB...
+2026-03-21 23:29:42  INFO      ✅ Polymarket client authenticated.
+2026-03-21 23:29:42  INFO      Connecting to Binance...
+2026-03-21 23:29:42  INFO      ✅ Binance client ready.
+2026-03-21 23:29:42  INFO      🔍 Scanning for best Up/Down market...
+2026-03-21 23:29:42  INFO      Trying 6 deterministic slugs for BTC...
+2026-03-21 23:29:44  INFO        ✅ Found: btc-updown-15m-1774116000
+2026-03-21 23:29:44  INFO      🎯 Market ready: 'Bitcoin Up or Down - March 21, 2:00PM-2:15PM ET' | Timeframe: 15min | Expires in: 15m 18s
+2026-03-21 23:29:44  INFO      🎯 Targeting: Bitcoin Up or Down - March 21, 2:00PM-2:15PM ET
+2026-03-21 23:30:04  INFO      BTC=$70,290.10 | Momentum=+0.000% | Up=0.990 Down=0.990 | Expires in 896s
+2026-03-21 23:30:04  WARNING   Daily trade limit reached (0). No more trades today.
+2026-03-21 23:30:09  INFO      ⛔ Bot stopped by user.
+2026-03-21 23:30:09  INFO      No hedge to close.
