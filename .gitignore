@@ -1,0 +1,59 @@
+# ============================================================
+# POLYMARKET BOT — .gitignore
+# ============================================================
+
+# !! CRITICAL — NEVER commit these !!
+.env
+*.pem
+*.key
+secrets.json
+config.private.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Logs (can get large, keep locally only)
+logs/
+*.log
+
+# Bot runtime files
+*.pid
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter (if used for analysis)
+.ipynb_checkpoints/
+*.ipynb
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
